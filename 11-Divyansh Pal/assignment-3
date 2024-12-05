@@ -27,5 +27,6 @@ int main() {
     // Output the result
     printf("%.2f°C is equal to %.2f°F\n", celsius, fahrenheit);
 
-    return 0;
+
+    return 0; 
 }
